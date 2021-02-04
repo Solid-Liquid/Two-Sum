@@ -6,9 +6,11 @@ Success
 Details
 Runtime: 4 ms, faster than 97.08% of C online submissions for Two Sum.
 Memory Usage: 5.8 MB, less than 99.36% of C online submissions for Two Sum.
+</pre>
 
-<a>https://leetcode.com/problems/two-sum/</a>
+https://leetcode.com/problems/two-sum/
 
+<pre>
 #1. Two Sum
 
 Given an array of integers nums and an integer target, return indices of the two numbers such that they add up to target.
