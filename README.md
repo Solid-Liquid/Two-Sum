@@ -1,3 +1,4 @@
+<pre>
 # Two-Sum
 My C Code Solution for LeetCode: Two Sum
 
@@ -51,3 +52,4 @@ Constraints:
 -109 <= target <= 109
 
 Only one valid answer exists.
+</pre>
