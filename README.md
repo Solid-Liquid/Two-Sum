@@ -7,7 +7,7 @@ Details
 Runtime: 4 ms, faster than 97.08% of C online submissions for Two Sum.
 Memory Usage: 5.8 MB, less than 99.36% of C online submissions for Two Sum.
 
-https://leetcode.com/problems/two-sum/
+<a>https://leetcode.com/problems/two-sum/</a>
 
 #1. Two Sum
 
